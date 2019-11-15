@@ -1,4 +1,4 @@
-# addRigidBody
+# RigidBodyProperties
 
 ## Description:  
 *Returns properties of rigid body  
