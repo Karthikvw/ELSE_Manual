@@ -12,7 +12,7 @@
 *BodyName - string  
 
 ### Set:  
->MPM. RigidBodyProperties (BodyName ='***', PropertyName='***', Value='***')  
+>MPM. RigidBodyProperties (BodyName ='****', PropertyName='****', Value='***')  
 
 ### Datatypes:  
 *BodyName - string  
