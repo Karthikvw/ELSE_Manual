@@ -7,7 +7,7 @@ Add a Rigid Body of type Sphere or Brick
 
 ## Syntax:  
 ### Sphere:  
->MPM. addRigidBody (NewBodyName='***', SphereCenter='***', SphereRadius='***')  
+>MPM. addRigidBody (NewBodyName='----', SphereCenter='----', SphereRadius='----')  
 
 ### Datatypes:  
 *NewBodyName - string  
@@ -15,7 +15,7 @@ Add a Rigid Body of type Sphere or Brick
 *SphereRadius – double  
 
 ### Brick:  
->MPM. addRigidBody (NewBodyName='***', BrickNodes='***')  
+>MPM. addRigidBody (NewBodyName='----', BrickNodes='----')  
 
 ### Datatypes:  
 *NewBodyName - string  
