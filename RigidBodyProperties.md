@@ -6,13 +6,13 @@
 
 ## Syntax:  
 ### Return:  
->MPM. RigidBodyProperties (BodyName ='----')  
+>MPM.RigidBodyProperties(BodyName ='----')  
 
 ### Datatypes:  
 *BodyName - string  
 
 ### Set:  
->MPM. RigidBodyProperties (BodyName ='----', PropertyName='----', Value='----')  
+>MPM.RigidBodyProperties(BodyName ='----', PropertyName='----', Value='----')  
 
 ### Datatypes:  
 *BodyName - string  
