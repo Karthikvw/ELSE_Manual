@@ -39,7 +39,7 @@ The Python path can be fixed permanently by the following steps
 *Paste it or replace the existing with the copied path  
 
 >**NOTES**  
->*Step 2 is optional
+>*Step 2 is optional  
 >*Updating a new version requires only steps 3,4 and 5  
 >*You might need to enter your Github username and password several times  
   
