@@ -27,5 +27,5 @@ Generates the executables which enables the Python code to run
 >make
 
 >**NOTES**
->*Make sure you are in ELSE directory
+>*Make sure you are in ELSE directory  
 >*You might need to enter your Github username and password several times
