@@ -23,13 +23,13 @@ Updates ELSE to the new reviewed version
 ## Creating and changing to build directory
 Making a new directory build where all the executable files are generated and stored later
 ### Syntax
->mkdir build
+>mkdir build  
 >cd build
 
 ## Generating the executables
 Generates the executables which enables the Python code to run
 ### Syntax
->cmake ..
+>cmake ..  
 >make  
 
 >**NOTES**
