@@ -23,7 +23,7 @@ Changing to build directory where all the executable files are generated and sto
 ## Generating the executables
 Generates the executables which enables the Python code to run
 ### Syntax
->cmake ..
+>cmake ..  
 >make
 
 >**NOTES**
