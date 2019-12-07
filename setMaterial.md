@@ -17,5 +17,5 @@
 
 ### Datatypes:  
 *BodyName - string  
-*MaterialKind - string
+*MaterialKind - string  
 *MaterialName - string      
