@@ -4,7 +4,6 @@
 Create a new material  
 
 ## Syntax:  
-### Sphere:  
 >MPM.addMaterial(MaterialKind='----', MaterialName='----')  
 
 ### Datatypes:  
