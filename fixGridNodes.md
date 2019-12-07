@@ -11,5 +11,5 @@ Fixes GridNodes that lie behind a surface
 *PointOnSurface - 3 x 1 double  
 *SurfaceNormal – 3 x 1 double  
 
->#Note#
+>**Note**  
 >Do not fix the extreme planes of the Grid  
