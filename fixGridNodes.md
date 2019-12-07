@@ -9,7 +9,7 @@ Fixes GridNodes that lie behind a surface
 ### Datatypes:  
 *GridName - string  
 *PointOnSurface - 3 x 1 double  
-*SurfaceNormal – 3 x 1 double  
+*SurfaceNormal - 3 x 1 double  
 
 >**Note**  
 >Do not fix the extreme planes of the Grid  
