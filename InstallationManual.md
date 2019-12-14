@@ -20,9 +20,9 @@ Generates the executables which enables the Python code to run
 
 **HINT**  
 You can control the number of work processes by the below command  
->make -j(n)
+>make -j(n)  
 (n) - required number of processes
 
->**NOTES**
+>**NOTES**  
 >*Make sure you are in ELSE directory  
 >*You might need to enter your Github username and password several times
