@@ -24,8 +24,28 @@ Changing to build directory where all the executable files are generated and sto
 Generates the executables which enables the Python code to run
 ### Syntax
 >cmake ..  
->make
+>make  
+>make install  
+
+# Rebuilding/Clearing build directory  
+
+## Changing to build directory
+Changing to build directory where all the executable files are generated and stored later
+### Syntax  
+>cd build  
+
+## Deleting all sub directories  
+Removes all the sub directories in build directory and makes it empty  
+### Syntax  
+>rm -r *  
+
+## Generating the executables
+Generates the executables which enables the Python code to run
+### Syntax
+>cmake ..  
+>make  
+>make install  
 
 >**NOTES**  
 >*Make sure you are in ELSE directory  
->*You might need to enter your Github username and password several times
+>*You might need to enter your Github username and password several times  
