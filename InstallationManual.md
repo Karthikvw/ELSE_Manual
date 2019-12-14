@@ -21,7 +21,8 @@ Generates the executables which enables the Python code to run
 **HINT**  
 You can control the number of work processes by the below command  
 >make -j(n)  
-(n) - required number of processes
+
+*(n) - required number of processes*
 
 >**NOTES**  
 >*Make sure you are in ELSE directory  
