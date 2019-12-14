@@ -26,8 +26,9 @@ Generates the executables which enables the Python code to run
 >cmake ..  
 >make  
 >make install  
-
+---
 # Rebuilding/Clearing build directory  
+(*when you wish to rebuild the build directory*)  `
 
 ## Changing to build directory
 Changing to build directory where all the executable files are generated and stored later
